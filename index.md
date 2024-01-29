@@ -12,10 +12,6 @@ Furthermore, I am a member of [Different Leaders](), a collective of young indiv
 
 Previously, I completed a civic service at [Article1](), during which I carried out numerous missions and projects to support young students in pursuing their studies. In particular, I had the opportunity to work alongside an education sociologist and met the former French President François Hollande during a presentation by the Different Leaders collective.
 
-You can find my CV [here]({{site.baseurl}}{% link CV_Sarah_Zenati.pdf %}).
-
-
-
 In my free time, I enjoy engaging in photography, particularly landscape and nature sites, [as you may see here](./another-page.html).
 
 Moreover, I also have a deep appreciation for literature, especially Russian novels by authors such as Dostoevsky and Tolstoy, [as you may see here](./another-page2.html).
