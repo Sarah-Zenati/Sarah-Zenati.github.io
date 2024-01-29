@@ -2,14 +2,9 @@
 layout: default
 ---
 
-## Personal hobbies
+## Photography 
 
-> 七転び八起き
->
-> Fall down seven times, stand up eight times.
-
-
-I have a deep love for Japan and its culture. I present here some of the pictures I have taken there
+In my free time, I enjoy engaging in professional photography, particularly landscape photography. I have a great love for hiking and often venture into the Alps. Last summer, I had the opportunity to visit the Dolomites, a stunning mountain range in the Italian Alps.
 
 
 
